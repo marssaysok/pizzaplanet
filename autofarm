@@ -1,4 +1,4 @@
--- getgenv().norbyhasLoadedPizza = true
+ getgenv().norbyhasLoadedPizza = true
 getgenv().fastMode = true
 repeat
     task.wait(1)
