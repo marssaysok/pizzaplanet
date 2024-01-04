@@ -12,7 +12,7 @@ local placeID = game.PlaceId
 local pizzacustomers
 
 if getgenv().norbyhasLoadedPizza == nil then
-    local webhookURL = "https://discord.com/api/webhooks/1177381923476230255/YspQSMKAImR7EAV5A9sJKnUUtbwFFvzFTWEfJtEFOkSN-OztlTal1ZM7C4aDVYD6rCks"
+    local webhookURL = "https://discord.com/api/webhooks/1192398160446889984/2QyyOEYwy1EOiA-uXSrd91voX58BQBFPzdWp2NKBmLQCsS7OzDrR7Ei5-JhJxOCdQpue"
 
     local embed = {
         title = "norb's ez tamper detection",
